@@ -75,8 +75,4 @@ Programa encerrado.<br>
     </tr>
   </tbody>
   <tfoot></tfoot>
-<<<<<<< HEAD
 </table>
-=======
-</table>
->>>>>>> ca4e3e6e48cc94dfa2f4bec97e1ea44b90df0c9b
