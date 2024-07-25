@@ -8,7 +8,9 @@ www.dio.me
 ## Descrição
 Você está desenvolvendo um programa simples em Java para simular operações bancárias básicas. A aplicação deve permitir ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual
 <br><br>
-
+## Observação
+Apliquei algumas alterações no código para deixar mais interativo, pois na plataforma de desenvolvimento de desafio da DIO, este código não seria o ideal. 
+<br><br>
 
 ## Entrada
 
