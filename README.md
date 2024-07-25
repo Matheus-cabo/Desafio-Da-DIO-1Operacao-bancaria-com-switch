@@ -4,7 +4,7 @@ www.dio.me
 
 #### Desenvolvido na linguagem Java por:
 - [Matheus Vasconcelos](https://github.com/Matheus-cabo)
-# Desafio 01 / 05 - Operações Bancárias Simples com Switch
+# Desafio 24 / 07 - Operações Bancárias Simples com Switch
 ## Descrição
 Você está desenvolvendo um programa simples em Java para simular operações bancárias básicas. A aplicação deve permitir ao usuário realizar depósitos, saques e consultar o saldo em uma conta bancária virtual
 <br><br>
